@@ -9,14 +9,9 @@
 ## Requirements
 
 - Python
-- Jupyter Notebook
-- Required Python libraries ( pandas,numpy,matplotlib,scikit-learn,scipy,nltk,seaborn,keras,sqlite3)
-
-## Prerequisite
-
-1.	Python
-2.	Jupyter notebook or Google colab
-
+- Jupyter Notebook or Google colab
+- Required Python libraries (pandas,numpy,matplotlib,scikit-learn,scipy,nltk,seaborn,keras)
+  
 ## Installation
 
  For the main installations, where multiple libraries are required, you can create a requirements.txt file to streamline the installation process. This file will contain a list of all the necessary libraries along with their versions:

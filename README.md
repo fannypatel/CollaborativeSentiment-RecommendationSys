@@ -6,7 +6,7 @@
  
 -  The goal of the project is to use various data science and machine learning techniques to comprehend and analyze product reviews. It covers topics like sentiment analysis, exploratory data analysis, data preprocessing, and creating a machine learning model to identify related products.
   
-## Requirements
+## Requirements  
 
 - Python
 - Jupyter Notebook or Google colab
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
  The codebase is organized into two main folders, each with a specific focus. The first folder encompasses the entire recommendation process, with three files that perform distinct functions in the overall recommendation system. On the other hand, the second folder is dedicated to sentiment analysis and contains three files. 
 
- ## Steps 
+## Steps 
 
 Step 1: Clone the Code
 
